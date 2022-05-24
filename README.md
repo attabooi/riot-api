@@ -1,2 +1,2 @@
 # riot-api
-Workding on a Python wrapper for the Riot Games API
+Working on a Python wrapper for the Riot Games API
